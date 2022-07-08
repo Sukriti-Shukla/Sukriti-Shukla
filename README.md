@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=Sukriti-Shukla&label=PROFILE+VIEWS&color=blueviolet)
-### Hi there 👋
 
+<p align="center" >
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I am+Sukriti!;Welcome +to+my+github+profile!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
+</p>
 <!--
 **Sukriti-Shukla/Sukriti-Shukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,19 +17,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center">
 I'm a 3rd year undergrad in the department of Engineering Design at IIT Madras, always keen to explore!✨
 <!-- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif ) -->
-![Alt Text](https://media.giphy.com/media/a9lgeWGF7Ysrm/giphy.gif)
-</br>
+<!-- ![Alt Text](https://media.giphy.com/media/a9lgeWGF7Ysrm/giphy.gif) -->
+</p>
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 [![Sukriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sukriti-Shukla&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukriti-Shukla&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sukriti-shukla-7ba6a8206/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />Linkedin</a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" />Instagram</a>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Sukriti-Shukla&show_icons=true&theme=bear" width = 400>
+  <img src = https://github-readme-streak-stats.herokuapp.com?user=Sukriti-Shukla&theme=dark&hide_border=true" width = 400>
 </p>
+
+
+### Find me on 🔭
+  <br />
+  
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Sukriti-Shukla)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sukriti-shukla-7ba6a8206/)
+
+
+
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+
+
 
 
 
