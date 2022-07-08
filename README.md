@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 I'm a 3rd year undergrad in the department of Engineering Design at IIT Madras, always keen to explore!✨
 [![Sukriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sukriti-Shukla&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukriti-Shukla)](https://github.com/anuraghazra/github-readme-stats)
 
