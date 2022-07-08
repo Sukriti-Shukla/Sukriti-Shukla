@@ -23,9 +23,6 @@ I'm a 3rd year undergrad in the department of Engineering Design at IIT Madras, 
 <!-- ![Alt Text](https://media.giphy.com/media/a9lgeWGF7Ysrm/giphy.gif) -->
 </p>
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
-[![Sukriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sukriti-Shukla&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukriti-Shukla&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Sukriti-Shukla&show_icons=true&theme=bear" width = 400>
   <img src = https://github-readme-streak-stats.herokuapp.com?user=Sukriti-Shukla&theme=dark&hide_border=true" width = 400>
