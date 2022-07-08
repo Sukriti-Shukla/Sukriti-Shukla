@@ -24,3 +24,4 @@ I'm a 3rd year undergrad in the department of Engineering Design at IIT Madras, 
 <a href="https://www.linkedin.com/in/sukriti-shukla-7ba6a8206/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />Linkedin</a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" />Instagram</a>
 </p>
+![](https://komarev.com/ghpvc/?username=Sukriti-Shukla)
