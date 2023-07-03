@@ -1,56 +1,33 @@
-![](https://komarev.com/ghpvc/?username=Sukriti-Shukla&label=PROFILE+VIEWS&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Sukriti-Shukla&label=PROFILE+VIEWS&color=blueviolet)
 
+<h1 align="center">Hello World, I'm Sukriti! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"></h1>
 
-  <h1 align="center">Hi I am Sukriti<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<div align="left">
 
+🎓 **Educational Background:** I am a tenacious and enterprising 4th-year dual degree student at IIT Madras, where I am pursuing my Master's in Data Science.
 
-<!--
-**Sukriti-Shukla/Sukriti-Shukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Development:** Whether it's building responsive websites or creating the backend logic, I've got it covered! I am skilled in HTML, CSS, JavaScript and love working with modern frameworks like React.js and Node.js. Additionally, I have experience with MongoDB, PostgreSQL, Django, and P5.js.
 
-Here are some ideas to get you started:
+🔬 **Data Science:** My Master’s program has allowed me to delve deeper into Data Science and Machine Learning. With proficiency in Python, I have honed my skills in Machine Learning, Deep Learning, and Computer Vision, and I am fervent about employing data-driven solutions to complex problems.
 
-- 🔭 I’m currently working on Web development
-- 🌱 I’m currently learning AI/ML
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: <href>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 **Robotics:** The world of robotics fascinates me. My toolkit includes the Robot Operating System (ROS), Gazebo for simulations, and Rviz for visualizations. Moreover, I've worked on software subsystems for autonomous vehicles, tackling real-world issues like dynamic obstacle detection, path planning, and real-time continuous lane detection. Excited to be part of the robotics revolution!
+
+💡 **Continuous Learning:** As a lifelong learner, I'm always on the lookout for new challenges and opportunities to grow. Technology has the power to change the world, and I'm here for it!
+
+</div>
+
+<p align="center"><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="240"></p>
+
+## ⚡ My GitHub Stats
+
 <p align="center">
-I'm a 3rd year undergrad in the department of Engineering Design at IIT Madras🔭
-<!-- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif ) -->
-<!-- ![Alt Text](https://media.giphy.com/media/a9lgeWGF7Ysrm/giphy.gif) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sukriti-Shukla&show_icons=true&theme=bear" width="430" alt="Sukriti's Github Stats" hspace="20"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sukriti-Shukla&theme=dark&hide_border=true" width="430" alt="Sukriti's Commit Streak"/>
 </p>
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
- <h1 align="center">My github stats🌱</h1>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Sukriti-Shukla&show_icons=true&theme=bear" width = 400>
-  <img src = https://github-readme-streak-stats.herokuapp.com?user=Sukriti-Shukla&theme=dark&hide_border=true" width = 400>
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://github.com/Sukriti-Shukla"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github"></a>
+  <a href="https://www.linkedin.com/in/sukriti-shukla-7ba6a8206/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 </p>
-<div align="center">
-<h1>Languages💬</h1>
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='40'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='40'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='43'/> 
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='40'/> 
-</div>
-<br/>
-<div align="center">
- <h1 align="center">Find me on🔭</h1>
-
-  <br />
-  
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Sukriti-Shukla)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sukriti-shukla-7ba6a8206/)
-<br/><br /><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-</div>
-
-
-
-
-<!-- "margin-right: whatever;" -->
-
-
-
-
-
