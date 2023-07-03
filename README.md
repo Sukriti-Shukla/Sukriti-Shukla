@@ -25,9 +25,25 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Sukriti-Shukla&theme=dark&hide_border=true" width="430" alt="Sukriti's Commit Streak"/>
 </p>
 
+<div align="center">
+<h2>Languages and Technologies 💻</h2>
+</div>
+
+<div align="center">
+
+<!-- Languages -->
+<img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg' width='40'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='40'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' width='40'/> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg' width='40'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' width='40'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='40'/>
+
+<!-- Technologies -->
+<img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' width='40'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' width='40'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg' width='40'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg' width='40'/>  <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg' width='40'/> 
+
+</div>
+
 ## 🌐 Connect with me
 
 <p align="center">
   <a href="https://github.com/Sukriti-Shukla"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github"></a>
   <a href="https://www.linkedin.com/in/sukriti-shukla-7ba6a8206/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 </p>
+
+
